@@ -1,14 +1,7 @@
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Store",
-  "name": "WlynStore Minuman",
-  "url": "https://wlynstore.github.io/",
-  "description": "Toko minuman online yang menyediakan softdrink dan minuman segar berkualitas.",
-  "telephone": "+6285711093974",
-  "address": {
-    "@type": "PostalAddress",
-    "addressCountry": "ID"
-  }
-}
-</script>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://wlynstoreminuman.github.io/WlynStore/</loc>
+    <priority>1.0</priority>
+  </url>
+</urlset>
